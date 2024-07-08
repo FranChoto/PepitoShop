@@ -7,13 +7,7 @@ function ProductCard({ dato , index , setCartItems}) {
     const [description, setDescription] = useState(dato.description.slice(0, 50) + "...");
 
     const descriptionExpansion = (e) => {
-        if (e.target.innerText === "Expandir") {
-            setDescription(dato.description);
-            e.target.innerText = "Reducir";
-        } else {
-            setDescription(dato.description.slice(0, 50) + "...");
-            e.target.innerText = "Expandir";
-        }
+        
     }
 
     const handleDelete = (index) => {
