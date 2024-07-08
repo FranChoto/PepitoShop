@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Cerveza",
+        "price": 2500,
+        "stock": 42,
+        "img": "https://img.freepik.com/free-photo/low-angle-pint-with-foaming-beer-table_23-2148342217.jpg?t=st=1719935792~exp=1719939392~hmac=20d90d379fbc567b60f1a33664f42eeecc839d1f15102c82c4c259657c22f652&w=740",
+        "description": "Una refrescante cerveza artesanal con un sabor único y un aroma distintivo, perfecta para cualquier ocasión."
+    },
+    {
+        "id": 2,
+        "name": "Whisky",
+        "price": 23000,
+        "stock": 16,
+        "img": "https://img.freepik.com/free-photo/whiskey-served-neat-glass_53876-100104.jpg?t=st=1719935830~exp=1719939430~hmac=8141764a19dd88eb5676f55645c2ed48c576e82168a60b98a2c197c91cd8fe52&w=740",
+        "description": "Un whisky premium con un sabor suave y complejo, envejecido en barricas de roble para un acabado perfecto."
+    },
+    {
+        "id": 3,
+        "name": "Vino",
+        "price": 7000,
+        "stock": 36,
+        "img": "https://img.freepik.com/free-photo/wineglass-near-bottle_23-2147764844.jpg?t=st=1719935972~exp=1719939572~hmac=958d2235446a7472250b3d7dfac7577ace35824ce9e415676910f842599e8c30&w=740",
+        "description": "Un elegante vino tinto con notas afrutadas y un cuerpo robusto, ideal para acompañar tus comidas favoritas."
+    },
+    {
+        "id": 4,
+        "name": "Fernet",
+        "price": 10000,
+        "stock": 22,
+        "img": "https://img.freepik.com/free-photo/drinks_23-2148014867.jpg?t=st=1719936126~exp=1719939726~hmac=08ddcce86db865c4e54181cc21d222eadf7adda06821054dd4f5edf27f956a8e&w=740",
+        "description": "Un clásico fernet con un sabor amargo y especiado, perfecto para disfrutar solo o en cócteles."
+    },
+    {
+        "id": 5,
+        "name": "Ron",
+        "price": 15000,
+        "stock": 30,
+        "img": "https://img.freepik.com/psd-gratis/maqueta-cuadrada-botella-ron-oscuro-etiqueta_250435-289.jpg?t=st=1720409671~exp=1720413271~hmac=c68a410756c3fa6d6d019e39c37dc00450841f663f14fc02518d4303114b0c87&w=740",
+        "description": "Un ron añejo con un sabor suave y dulce, ideal para tomar solo o en tus cócteles favoritos."
+    },
+    {
+        "id": 6,
+        "name": "Vodka",
+        "price": 12000,
+        "stock": 25,
+        "img": "https://media.istockphoto.com/id/1204751751/es/vector/maqueta-de-botella-de-vodka-aislada-con-etiqueta-de-texto-plantilla-de-envasado-de-bebida.jpg?s=612x612&w=0&k=20&c=BKNwwPjYrXIQlTTT0pMlFFCltJQZMLCgQR5UoFWxM9k=",
+        "description": "Un vodka premium destilado varias veces para un sabor limpio y puro, perfecto para mezclar en cualquier cóctel."
+    },
+    {
+        "id": 7,
+        "name": "Gin",
+        "price": 11000,
+        "stock": 18,
+        "img": "https://img.freepik.com/vector-premium/gin-tonic-coctel-acuarela-dibujado-mano-ilustracion-bebida-clipart_191095-5114.jpg?w=740",
+        "description": "Un gin aromático con notas botánicas frescas, ideal para preparar un clásico gin tonic."
+    },
+    {
+        "id": 8,
+        "name": "Tequila",
+        "price": 14000,
+        "stock": 20,
+        "img": "https://img.freepik.com/fotos-premium/botella-tequila-aislada-sobre-fondo-blanco-transparente-producto-bebidas-alcoholicas_771335-66008.jpg?w=740",
+        "description": "Un tequila reposado con un sabor suave y un toque ahumado, perfecto para tomar solo o en cócteles."
+    }
+]

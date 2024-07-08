@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin: 1rem 0;
+    gap: 1rem;
+}
+
+button{
+    cursor: pointer;
+}
